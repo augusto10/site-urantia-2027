@@ -1,0 +1,498 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "program": "Program",
+    "speakers": "Speakers",
+    "register": "Register",
+    "tickets": "Tickets",
+    "donate": "Donate",
+    "faq": "FAQ",
+    "location": "Location"
+  },
+  "about": {
+    "title": "About the Event",
+    "subtitle": "Learn more about the VI International Congress of Urantia Book Readers",
+    "introduction": {
+      "title": "The Meeting",
+      "description": "The VI International Congress of Urantia Book Readers is an event that brings together readers and scholars from around the world to share experiences, deepen knowledge, and strengthen bonds of brotherhood."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To promote the study and dissemination of the teachings of The Urantia Book, facilitating the meeting and exchange of experiences between readers of different cultures and nationalities."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be a milestone in the history of the Urantia movement, contributing to the spiritual growth and unity among Urantia Book readers."
+    },
+    "values": {
+      "title": "Our Values",
+      "list": {
+        "brotherhood": {
+          "title": "Brotherhood",
+          "description": "Promote unity and mutual respect among all participants"
+        },
+        "knowledge": {
+          "title": "Knowledge",
+          "description": "Encourage in-depth study and understanding of the teachings"
+        },
+        "spirituality": {
+          "title": "Spirituality",
+          "description": "Cultivate spiritual growth and connection with the Father"
+        },
+        "diversity": {
+          "title": "Diversity",
+          "description": "Value and respect different cultures and perspectives"
+        }
+      }
+    },
+    "features": {
+      "title": "Event Highlights",
+      "list": {
+        "lectures": {
+          "title": "Inspiring Lectures",
+          "description": "Presentations by renowned speakers from the Urantia movement"
+        },
+        "workshops": {
+          "title": "Practical Workshops",
+          "description": "Interactive activities to deepen knowledge"
+        },
+        "study_groups": {
+          "title": "Study Groups",
+          "description": "Moments of sharing and discussion in smaller groups"
+        },
+        "cultural": {
+          "title": "Cultural Program",
+          "description": "Artistic and cultural activities for integration"
+        }
+      }
+    },
+    "location": {
+      "title": "Event Location",
+      "description": "The event will be held in Guarulhos, São Paulo, Brazil, at a specially chosen venue to provide comfort and easy access to all participants.",
+      "features": {
+        "access": "Easy access to international airport",
+        "structure": "Excellent event infrastructure",
+        "accommodation": "Various accommodation options",
+        "nature": "Contact with nature"
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "The event is organized by a dedicated team of volunteers and professionals committed to the success of the congress."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "We are available to answer your questions and provide more information about the event.",
+      "email": "contact@urantia.org",
+      "phone": "+55 11 99999-9999"
+    }
+  },
+  "navigation": {
+    "about": "About",
+    "program": "Program",
+    "speakers": "Speakers",
+    "workshops": "Workshops",
+    "register": "Register",
+    "tickets": "Tickets",
+    "donate": "Donate",
+    "faq": "FAQ",
+    "location": "Location",
+    "organizers": "Organizers",
+    "sponsors": "Sponsors",
+    "downloads": "Downloads",
+    "language": "Language"
+  },
+  "home": {
+    "event_badge": "International Event 2027",
+    "title": "International Meeting",
+    "subtitle": "of Urantia Book Readers",
+    "hero": {
+      "description": "Join readers from around the world for a unique experience of communion, learning and spiritual growth."
+    },
+    "cta": {
+      "register": "Register Now",
+      "program": "View Program"
+    }
+  },
+  "countdown": {
+    "title": "Countdown",
+    "subtitle": "to the great meeting",
+    "days": "DAYS",
+    "hours": "HOURS",
+    "minutes": "MINUTES",
+    "seconds": "SECONDS",
+    "dates": "October 15-19, 2027",
+    "location": "Guarulhos, São Paulo, Brazil",
+    "eventInfo": "Event Information"
+  },
+  "cta": {
+    "title": "Be Part of This Historic Moment",
+    "subtitle": "Secure your participation in this unique event",
+    "register": {
+      "title": "Registration",
+      "description": "Register and secure your spot in this unique event.",
+      "button": "Register Now"
+    },
+    "tickets": {
+      "title": "Tickets",
+      "description": "Choose your accommodation package and secure your participation.",
+      "button": "Buy Tickets"
+    },
+    "donate": {
+      "title": "Donations",
+      "description": "Help us make this event even more special.",
+      "button": "Make a Donation"
+    },
+    "help": "Need help?",
+    "faq": "Check our FAQ",
+    "contact": "contact us"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about the VI International Congress of Urantia Book Readers 2027",
+    "categories": {
+      "general": "General Information",
+      "registration": "Registration and Payment",
+      "accommodation": "Accommodation and Meals",
+      "program": "Program and Activities"
+    },
+    "general": {
+      "q1": "When and where will the event be held?",
+      "a1": "The event will be held from October 15-19, 2027, in Guarulhos, São Paulo, Brazil. The venue offers excellent infrastructure and easy access to the international airport.",
+      "q2": "Who can participate in the event?",
+      "a2": "The event is open to all Urantia Book readers, regardless of study time or knowledge level. Beginning students, experienced readers, and all interested parties are welcome.",
+      "q3": "Do I need to be a member of any organization?",
+      "a3": "No, the event is open to all interested parties, regardless of affiliation with any organization or study group."
+    },
+    "registration": {
+      "q1": "How do I register?",
+      "a1": "Registration can be done directly through our website in the 'Register' section. After filling out the form, you will receive payment instructions.",
+      "q2": "What payment methods are accepted?",
+      "a2": "We accept international credit cards, PIX (Brazil), and bank transfers. We offer installment options up to 10x without interest.",
+      "q3": "Are discounts available?",
+      "a3": "Yes, we offer discounts for early registration, groups, and students. Please check the pricing table for more details."
+    },
+    "accommodation": {
+      "q1": "What types of accommodation are available?",
+      "a1": "We offer different accommodation options, from single rooms to shared rooms. All options include breakfast and access to all activities.",
+      "q2": "Are meals included?",
+      "a2": "Yes, all main meals (breakfast, lunch, and dinner) are included in the registration. We offer options for different dietary restrictions.",
+      "q3": "Can I stay extra days?",
+      "a3": "Yes, you can extend your stay before or after the event, subject to availability. Contact us to check prices and reservations."
+    },
+    "program": {
+      "q1": "What is the event program?",
+      "a1": "The program includes lectures, workshops, study groups, meditation moments, and fellowship. See the complete schedule in the 'Program' section.",
+      "q2": "In what languages will the activities be held?",
+      "a2": "Main activities will have simultaneous translation in Portuguese, English, Spanish, and French to ensure everyone can fully participate.",
+      "q3": "What materials should I bring?",
+      "a3": "We recommend bringing your copy of The Urantia Book. All additional material will be provided by the organization."
+    },
+    "still_questions": "Haven't found your answer?",
+    "contact_us": "Our team is ready to help with any additional questions you may have.",
+    "contact_button": "Send Email"
+  },
+  "program": {
+    "title": "Event Program",
+    "subtitle": "Check out the complete schedule of the three-day event with lectures, workshops, and special activities.",
+    "day1": {
+      "date": "October 15, 2027",
+      "title": "First Day - Opening and Welcome",
+      "activity1": {
+        "title": "Opening Ceremony",
+        "description": "Welcome to participants and program presentation"
+      },
+      "activity2": {
+        "title": "Inaugural Lecture",
+        "description": "Presentation on the objectives of the congress"
+      },
+      "activity3": {
+        "title": "Introduction Groups",
+        "description": "Time for participants to get to know each other"
+      },
+      "activity4": {
+        "title": "Round Table",
+        "description": "Discussion on the challenges of the Urantia movement"
+      }
+    },
+    "day2": {
+      "date": "October 16, 2027",
+      "title": "Second Day - Lectures and Workshops",
+      "activity1": {
+        "title": "Main Lectures",
+        "description": "Presentations by renowned speakers"
+      },
+      "activity2": {
+        "title": "Thematic Workshops",
+        "description": "Practical activities in smaller groups"
+      },
+      "activity3": {
+        "title": "Discussion Panel",
+        "description": "Debate on contemporary themes"
+      },
+      "activity4": {
+        "title": "Q&A Session",
+        "description": "Time for clarifications and questions"
+      }
+    },
+    "day3": {
+      "date": "October 17, 2027",
+      "title": "Third Day - Study Groups",
+      "activity1": {
+        "title": "Thematic Study Groups",
+        "description": "Discussions in smaller groups on specific themes"
+      },
+      "activity2": {
+        "title": "Experience Sharing",
+        "description": "Participants share their spiritual journeys"
+      },
+      "activity3": {
+        "title": "Practical Workshops",
+        "description": "Activities for applying the teachings"
+      },
+      "activity4": {
+        "title": "Closing Ceremony",
+        "description": "Final reflections and farewell"
+      }
+    }
+  },
+  "tickets": {
+    "title": "Tickets and Accommodation",
+    "subtitle": "Choose your accommodation type and secure your participation in the VI International Congress of Urantia Book Readers 2027.",
+    "room_types": "Room Types",
+    "per_night": "per night",
+    "room_types_list": {
+      "individual": {
+        "name": "Individual Room",
+        "description": "Private room with all amenities for one person",
+        "features": [
+          "Private room",
+          "Private bathroom",
+          "Free Wi-Fi",
+          "Breakfast included",
+          "Access to all activities"
+        ]
+      },
+      "double": {
+        "name": "Double Room",
+        "description": "Comfortable room for couple with double bed",
+        "features": [
+          "Double bed",
+          "Private bathroom",
+          "Free Wi-Fi",
+          "Breakfast included",
+          "Access to all activities"
+        ]
+      },
+      "triple": {
+        "name": "Triple Room",
+        "description": "Room for three people with individual beds",
+        "features": [
+          "Three individual beds",
+          "Private bathroom",
+          "Free Wi-Fi",
+          "Breakfast included",
+          "Access to all activities"
+        ]
+      },
+      "shared": {
+        "name": "Shared Room",
+        "description": "Room shared with other participants",
+        "features": [
+          "Individual bed",
+          "Shared bathroom",
+          "Free Wi-Fi",
+          "Breakfast included",
+          "Access to all activities"
+        ]
+      }
+    },
+    "event_tickets": {
+      "title": "Event Tickets",
+      "subtitle": "Choose your ticket to participate in the event",
+      "full_event": {
+        "name": "Full Event",
+        "description": "Access to all activities for 3 days",
+        "price": "$350",
+        "features": [
+          "All lectures",
+          "All workshops",
+          "Study groups",
+          "Event materials",
+          "Participation certificate"
+        ]
+      },
+      "single_day": {
+        "name": "Daily Ticket",
+        "description": "Access to activities for a specific day",
+        "price": "$150",
+        "features": [
+          "Day lectures",
+          "Day workshops",
+          "Day materials",
+          "Participation certificate"
+        ]
+      }
+    },
+    "additional_options": "Additional Options",
+    "optional_trip": "Optional Trip",
+    "optional_trip_desc": "City tour of São Paulo with specialized guide",
+    "booking_summary": "Booking Summary",
+    "full_name": "Full Name",
+    "full_name_placeholder": "Enter your full name",
+    "email": "Email",
+    "email_placeholder": "Enter your email",
+    "check_in": "Check-in",
+    "check_out": "Check-out",
+    "room_type": "Room Type",
+    "nights": "Nights",
+    "price_per_night": "Price per night",
+    "total": "Total",
+    "includes_meals": "Includes all meals",
+    "processing": "Processing...",
+    "finalize_purchase": "Finalize Purchase",
+    "secure_payment": "Secure payment via Stripe",
+    "whats_included": "What's included",
+    "accommodation": "Accommodation",
+    "accommodation_desc": "Comfortable rooms with all amenities",
+    "meals": "Meals",
+    "meals_desc": "Breakfast, lunch and dinner included",
+    "materials": "Materials",
+    "materials_desc": "Study booklets and materials",
+    "activities": "Activities",
+    "activities_desc": "Access to all lectures and workshops",
+    "fill_required_fields": "Please fill in all required fields",
+    "payment_error": "Payment error. Please try again.",
+    "purchase_error": "Purchase error. Please try again."
+  },
+  "speakers": {
+    "title": "Speakers",
+    "subtitle": "Meet the confirmed speakers for the VI International Congress of Urantia Book Readers 2027",
+    "featured": "Featured Speakers",
+    "international": "International Speakers",
+    "national": "National Speakers",
+    "bio": "Biography",
+    "topic": "Lecture Topic",
+    "experience": "Experience",
+    "more_info": "More Information"
+  },
+  "footer": {
+    "heading": "Footer",
+    "title": "Urantia 2027",
+    "description": "VI International Congress of Urantia Book Readers in São Paulo, Brazil. Three days of lectures, workshops and fellowship for spiritual growth.",
+    "sections": {
+      "event": "Event",
+      "participate": "Participate",
+      "info": "Information",
+      "contact": "Contact"
+    },
+    "address": "Rua Augusta, 1939 - Cerqueira César\nSão Paulo - SP, 01413-000",
+    "contact": "Contact",
+    "social": "Social Media",
+    "links": "Useful Links",
+    "copyright": "© 2024 Urantia Foundation Brazil. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "register": {
+    "title": "Registration",
+    "subtitle": "Register for the VI International Congress of Urantia Book Readers 2027",
+    "form": {
+      "personal_info": "Personal Information",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "country": "Country",
+      "city": "City",
+      "address": "Address",
+      "birth_date": "Birth Date",
+      "gender": "Gender",
+      "gender_options": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other",
+        "prefer_not_to_say": "Prefer not to say"
+      }
+    },
+    "event_options": {
+      "title": "Event Options",
+      "accommodation": "Accommodation",
+      "accommodation_type": {
+        "label": "Accommodation Type",
+        "single": "Single Room",
+        "double": "Double Room",
+        "triple": "Triple Room",
+        "shared": "Shared Room"
+      },
+      "meal_preferences": "Meal Preferences",
+      "meal_options": {
+        "regular": "Regular",
+        "vegetarian": "Vegetarian",
+        "vegan": "Vegan",
+        "gluten_free": "Gluten Free",
+        "lactose_free": "Lactose Free"
+      },
+      "dietary_restrictions": "Dietary Restrictions",
+      "special_needs": "Special Needs"
+    },
+    "participation": {
+      "title": "Participation",
+      "arrival_date": "Arrival Date",
+      "departure_date": "Departure Date",
+      "workshop_preference": "Workshop Preference",
+      "study_group": "Study Group",
+      "experience_level": {
+        "label": "Experience Level",
+        "beginner": "Beginner",
+        "intermediate": "Intermediate",
+        "advanced": "Advanced"
+      },
+      "language_preference": "Language Preference",
+      "translation_needed": "Need Translation?"
+    },
+    "additional": {
+      "title": "Additional Information",
+      "emergency_contact": "Emergency Contact",
+      "emergency_phone": "Emergency Phone",
+      "insurance": "Travel Insurance",
+      "shirt_size": "Shirt Size",
+      "comments": "Comments or Notes"
+    },
+    "payment": {
+      "title": "Payment",
+      "method": "Payment Method",
+      "installments": "Installments",
+      "total": "Total",
+      "methods": {
+        "credit_card": "Credit Card",
+        "debit_card": "Debit Card",
+        "bank_transfer": "Bank Transfer",
+        "pix": "PIX"
+      }
+    },
+    "terms": {
+      "accept": "I accept the terms and conditions",
+      "privacy_policy": "Privacy Policy",
+      "terms_conditions": "Terms and Conditions"
+    },
+    "buttons": {
+      "save": "Save",
+      "submit": "Submit Registration",
+      "cancel": "Cancel",
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "success": {
+      "title": "Registration Complete!",
+      "message": "Your registration has been successfully received. You will receive a confirmation email with more information shortly.",
+      "reference": "Reference Number"
+    },
+    "error": {
+      "title": "Registration Error",
+      "message": "An error occurred while processing your registration. Please try again or contact us.",
+      "required": "Required field"
+    }
+  }
+}

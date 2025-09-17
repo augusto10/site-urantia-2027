@@ -1,0 +1,433 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "program": "Programme",
+    "speakers": "Orateurs",
+    "register": "Inscription",
+    "tickets": "Billets",
+    "donate": "Faire un don",
+    "faq": "FAQ",
+    "location": "Emplacement"
+  },
+  "navigation": {
+    "about": "À propos",
+    "program": "Programme",
+    "speakers": "Orateurs",
+    "workshops": "Ateliers",
+    "register": "Inscription",
+    "tickets": "Billets",
+    "donate": "Faire un don",
+    "faq": "FAQ",
+    "location": "Emplacement",
+    "organizers": "Organisateurs",
+    "sponsors": "Sponsors",
+    "downloads": "Téléchargements",
+    "language": "Langue"
+  },
+  "home": {
+    "event_badge": "Événement International 2027",
+    "title": "Rencontre Internationale",
+    "subtitle": "des Lecteurs du Livre d'Urantia",
+    "hero": {
+      "description": "Rejoignez des lecteurs du monde entier pour une expérience unique de communion, d'apprentissage et de croissance spirituelle."
+    },
+    "cta": {
+      "register": "Inscrivez-vous Maintenant",
+      "program": "Voir le Programme"
+    }
+  },
+  "countdown": {
+    "title": "Compte à Rebours",
+    "subtitle": "jusqu'à la grande rencontre",
+    "days": "JOURS",
+    "hours": "HEURES",
+    "minutes": "MINUTES",
+    "seconds": "SECONDES",
+    "dates": "15-19 Octobre 2027",
+    "location": "Guarulhos, São Paulo, Brésil",
+    "eventInfo": "Informations sur l'Événement"
+  },
+  "cta": {
+    "title": "Faites Partie de ce Moment Historique",
+    "subtitle": "Assurez votre participation à cet événement unique",
+    "register": {
+      "title": "Inscription",
+      "description": "Inscrivez-vous et réservez votre place pour cet événement unique.",
+      "button": "S'inscrire Maintenant"
+    },
+    "tickets": {
+      "title": "Billets",
+      "description": "Choisissez votre forfait d'hébergement et assurez votre participation.",
+      "button": "Acheter des Billets"
+    },
+    "donate": {
+      "title": "Dons",
+      "description": "Aidez-nous à rendre cet événement encore plus spécial.",
+      "button": "Faire un Don"
+    },
+    "help": "Besoin d'aide ?",
+    "faq": "Consultez notre FAQ",
+    "contact": "contactez-nous"
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Trouvez des réponses aux questions courantes sur le VIe Congrès International des Lecteurs du Livre d'Urantia 2027",
+    "categories": {
+      "general": "Informations Générales",
+      "registration": "Inscription et Paiement",
+      "accommodation": "Hébergement et Repas",
+      "program": "Programme et Activités"
+    },
+    "general": {
+      "q1": "Quand et où aura lieu l'événement ?",
+      "a1": "L'événement aura lieu du 15 au 19 octobre 2027 à Guarulhos, São Paulo, Brésil. Le lieu offre une excellente infrastructure et un accès facile à l'aéroport international.",
+      "q2": "Qui peut participer à l'événement ?",
+      "a2": "L'événement est ouvert à tous les lecteurs du Livre d'Urantia, quel que soit leur temps d'étude ou leur niveau de connaissance. Les étudiants débutants, les lecteurs expérimentés et tous les intéressés sont les bienvenus.",
+      "q3": "Dois-je être membre d'une organisation ?",
+      "a3": "Non, l'événement est ouvert à tous les intéressés, quelle que soit leur affiliation à une organisation ou à un groupe d'étude."
+    },
+    "registration": {
+      "q1": "Comment puis-je m'inscrire ?",
+      "a1": "L'inscription peut être faite directement sur notre site web dans la section 'Inscription'. Après avoir rempli le formulaire, vous recevrez les instructions de paiement.",
+      "q2": "Quels modes de paiement sont acceptés ?",
+      "a2": "Nous acceptons les cartes de crédit internationales, PIX (Brésil) et les virements bancaires. Nous proposons des options de paiement en plusieurs fois jusqu'à 10x sans intérêts.",
+      "q3": "Y a-t-il des réductions disponibles ?",
+      "a3": "Oui, nous offrons des réductions pour les inscriptions anticipées, les groupes et les étudiants. Consultez le tableau des prix pour plus de détails."
+    },
+    "accommodation": {
+      "q1": "Quels types d'hébergement sont disponibles ?",
+      "a1": "Nous proposons différentes options d'hébergement, des chambres individuelles aux chambres partagées. Toutes les options comprennent le petit-déjeuner et l'accès à toutes les activités.",
+      "q2": "Les repas sont-ils inclus ?",
+      "a2": "Oui, tous les repas principaux (petit-déjeuner, déjeuner et dîner) sont inclus dans l'inscription. Nous proposons des options pour différentes restrictions alimentaires.",
+      "q3": "Puis-je rester des jours supplémentaires ?",
+      "a3": "Oui, vous pouvez prolonger votre séjour avant ou après l'événement, sous réserve de disponibilité. Contactez-nous pour vérifier les prix et les réservations."
+    },
+    "program": {
+      "q1": "Quel est le programme de l'événement ?",
+      "a1": "Le programme comprend des conférences, des ateliers, des groupes d'étude, des moments de méditation et de fraternité. Consultez le programme complet dans la section 'Programme'.",
+      "q2": "Dans quelles langues se dérouleront les activités ?",
+      "a2": "Les activités principales bénéficieront d'une traduction simultanée en portugais, anglais, espagnol et français pour garantir que tous puissent participer pleinement.",
+      "q3": "Quels matériels dois-je apporter ?",
+      "a3": "Nous recommandons d'apporter votre exemplaire du Livre d'Urantia. Tout le matériel supplémentaire sera fourni par l'organisation."
+    },
+    "still_questions": "Vous n'avez pas trouvé votre réponse ?",
+    "contact_us": "Notre équipe est prête à vous aider pour toute question supplémentaire.",
+    "contact_button": "Envoyer un Email"
+  },
+  "program": {
+    "title": "Programme de l'Événement",
+    "subtitle": "Consultez le programme complet de l'événement de trois jours avec conférences, ateliers et activités spéciales.",
+    "day1": {
+      "date": "15 Octobre, 2027",
+      "title": "Premier Jour - Ouverture et Accueil",
+      "activity1": {
+        "title": "Cérémonie d'Ouverture",
+        "description": "Accueil des participants et présentation du programme"
+      },
+      "activity2": {
+        "title": "Conférence Inaugurale",
+        "description": "Présentation des objectifs du congrès"
+      },
+      "activity3": {
+        "title": "Groupes de Présentation",
+        "description": "Moment pour que les participants se rencontrent"
+      },
+      "activity4": {
+        "title": "Table Ronde",
+        "description": "Discussion sur les défis du mouvement Urantia"
+      }
+    },
+    "day2": {
+      "date": "16 Octobre, 2027",
+      "title": "Deuxième Jour - Conférences et Ateliers",
+      "activity1": {
+        "title": "Conférences Principales",
+        "description": "Présentations d'orateurs reconnus"
+      },
+      "activity2": {
+        "title": "Ateliers Thématiques",
+        "description": "Activités pratiques en petits groupes"
+      },
+      "activity3": {
+        "title": "Panel de Discussion",
+        "description": "Débat sur des thèmes contemporains"
+      },
+      "activity4": {
+        "title": "Session de Questions",
+        "description": "Moment pour clarifications et questions"
+      }
+    },
+    "day3": {
+      "date": "17 Octobre, 2027",
+      "title": "Troisième Jour - Groupes d'Étude",
+      "activity1": {
+        "title": "Groupes d'Étude Thématiques",
+        "description": "Discussions en petits groupes sur des thèmes spécifiques"
+      },
+      "activity2": {
+        "title": "Partage d'Expériences",
+        "description": "Les participants partagent leurs parcours spirituels"
+      },
+      "activity3": {
+        "title": "Ateliers Pratiques",
+        "description": "Activités pour appliquer les enseignements"
+      },
+      "activity4": {
+        "title": "Cérémonie de Clôture",
+        "description": "Réflexions finales et au revoir"
+      }
+    }
+  },
+  "tickets": {
+    "title": "Billets et Hébergement",
+    "subtitle": "Choisissez votre type d'hébergement et assurez votre participation au VIe Congrès International des Lecteurs du Livre d'Urantia 2027.",
+    "room_types": "Types de Chambres",
+    "per_night": "par nuit",
+    "room_types_list": {
+      "individual": {
+        "name": "Chambre Individuelle",
+        "description": "Chambre privée avec toutes les commodités pour une personne",
+        "features": ["Chambre privée", "Salle de bain privée", "Wi-Fi gratuit", "Petit-déjeuner inclus", "Accès à toutes les activités"]
+      },
+      "double": {
+        "name": "Chambre Double",
+        "description": "Chambre confortable pour couple avec lit double",
+        "features": ["Lit double", "Salle de bain privée", "Wi-Fi gratuit", "Petit-déjeuner inclus", "Accès à toutes les activités"]
+      },
+      "triple": {
+        "name": "Chambre Triple",
+        "description": "Chambre pour trois personnes avec lits individuels",
+        "features": ["Trois lits individuels", "Salle de bain privée", "Wi-Fi gratuit", "Petit-déjeuner inclus", "Accès à toutes les activités"]
+      },
+      "shared": {
+        "name": "Chambre Partagée",
+        "description": "Chambre partagée avec d'autres participants",
+        "features": ["Lit individuel", "Salle de bain partagée", "Wi-Fi gratuit", "Petit-déjeuner inclus", "Accès à toutes les activités"]
+      }
+    },
+    "event_tickets": {
+      "title": "Billets d'Événement",
+      "subtitle": "Choisissez votre billet pour participer à l'événement",
+      "full_event": {
+        "name": "Événement Complet",
+        "description": "Accès à toutes les activités pendant 3 jours",
+        "price": "350€",
+        "features": ["Toutes les conférences", "Tous les ateliers", "Groupes d'étude", "Matériel de l'événement", "Certificat de participation"]
+      },
+      "single_day": {
+        "name": "Billet Journalier",
+        "description": "Accès aux activités d'une journée spécifique",
+        "price": "150€",
+        "features": ["Conférences du jour", "Ateliers du jour", "Matériel du jour", "Certificat de participation"]
+      }
+    }
+  },
+  "speakers": {
+    "title": "Orateurs",
+    "subtitle": "Rencontrez les orateurs confirmés pour le VIe Congrès International des Lecteurs du Livre d'Urantia 2027",
+    "featured": "Orateurs Vedettes",
+    "international": "Orateurs Internationaux",
+    "national": "Orateurs Nationaux",
+    "bio": "Biographie",
+    "topic": "Sujet de la Conférence",
+    "experience": "Expérience",
+    "more_info": "Plus d'Informations"
+  },
+  "footer": {
+    "heading": "Pied de page",
+    "title": "Urantia 2027",
+    "description": "VIe Congrès International des Lecteurs du Livre d'Urantia à São Paulo, Brésil. Trois jours de conférences, d'ateliers et de fraternité pour la croissance spirituelle.",
+    "sections": {
+      "event": "Événement",
+      "participate": "Participation",
+      "info": "Informations",
+      "contact": "Contact"
+    },
+    "address": "Rua Augusta, 1939 - Cerqueira César\nSão Paulo - SP, 01413-000",
+    "contact": "Contact",
+    "social": "Réseaux Sociaux",
+    "links": "Liens Utiles",
+    "copyright": "© 2024 Fondation Urantia Brésil. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  },
+  "register": {
+    "title": "Inscription",
+    "subtitle": "Inscrivez-vous au VIe Congrès International des Lecteurs du Livre d'Urantia 2027",
+    "form": {
+      "personal_info": "Informations Personnelles",
+      "first_name": "Prénom",
+      "last_name": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "country": "Pays",
+      "city": "Ville",
+      "address": "Adresse",
+      "birth_date": "Date de Naissance",
+      "gender": "Genre",
+      "gender_options": {
+        "male": "Masculin",
+        "female": "Féminin",
+        "other": "Autre",
+        "prefer_not_to_say": "Je préfère ne pas dire"
+      }
+    },
+    "event_options": {
+      "title": "Options de l'Événement",
+      "accommodation": "Hébergement",
+      "accommodation_type": {
+        "label": "Type d'Hébergement",
+        "single": "Chambre Individuelle",
+        "double": "Chambre Double",
+        "triple": "Chambre Triple",
+        "shared": "Chambre Partagée"
+      },
+      "meal_preferences": "Préférences de Repas",
+      "meal_options": {
+        "regular": "Regular",
+        "vegetarian": "Végétarien",
+        "vegan": "Végétalien",
+        "gluten_free": "Sans Gluten",
+        "lactose_free": "Sans Lactose"
+      },
+      "dietary_restrictions": "Restrictions Alimentaires",
+      "special_needs": "Besoins Spéciaux"
+    },
+    "participation": {
+      "title": "Participation",
+      "arrival_date": "Date d'Arrivée",
+      "departure_date": "Date de Départ",
+      "workshop_preference": "Préference d'Atelier",
+      "study_group": "Groupe d'Étude",
+      "experience_level": {
+        "label": "Niveau d'Expérience",
+        "beginner": "Débutant",
+        "intermediate": "Intermédiaire",
+        "advanced": "Avancé"
+      },
+      "language_preference": "Préférence de Langue",
+      "translation_needed": "Besoin de Traduction ?"
+    },
+    "additional": {
+      "title": "Informations Supplémentaires",
+      "emergency_contact": "Contact d'Urgence",
+      "emergency_phone": "Téléphone d'Urgence",
+      "insurance": "Assurance Voyage",
+      "shirt_size": "Taille de T-shirt",
+      "comments": "Commentaires ou Notes"
+    },
+    "payment": {
+      "title": "Paiement",
+      "method": "Méthode de Paiement",
+      "installments": "Versements",
+      "total": "Total",
+      "methods": {
+        "credit_card": "Carte de Crédit",
+        "debit_card": "Carte de Débit",
+        "bank_transfer": "Virement Bancaire",
+        "pix": "PIX"
+      }
+    },
+    "terms": {
+      "accept": "J'accepte les termes et conditions",
+      "privacy_policy": "Politique de Confidentialité",
+      "terms_conditions": "Termes et Conditions"
+    },
+    "buttons": {
+      "save": "Enregistrer",
+      "submit": "Soumettre l'Inscription",
+      "cancel": "Annuler",
+      "previous": "Précédent",
+      "next": "Suivant"
+    },
+    "success": {
+      "title": "Inscription Terminée !",
+      "message": "Votre inscription a été reçue avec succès. Vous recevrez bientôt un email de confirmation avec plus d'informations.",
+      "reference": "Numéro de Référence"
+    },
+    "error": {
+      "title": "Erreur d'Inscription",
+      "message": "Une erreur s'est produite lors du traitement de votre inscription. Veuillez réessayer ou nous contacter.",
+      "required": "Champ obligatoire"
+    }
+  },
+  "about": {
+    "title": "À Propos de l'Événement",
+    "subtitle": "En savoir plus sur le VIe Congrès International des Lecteurs du Livre d'Urantia",
+    "introduction": {
+      "title": "La Rencontre",
+      "description": "Le VIe Congrès International des Lecteurs du Livre d'Urantia est un événement qui rassemble des lecteurs et des chercheurs du monde entier pour partager des expériences, approfondir les connaissances et renforcer les liens de fraternité."
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Promouvoir l'étude et la diffusion des enseignements du Livre d'Urantia, en facilitant la rencontre et l'échange d'expériences entre lecteurs de différentes cultures et nationalités."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Être une étape importante dans l'histoire du mouvement Urantia, contribuant à la croissance spirituelle et à l'unité parmi les lecteurs du Livre d'Urantia."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "list": {
+        "brotherhood": {
+          "title": "Fraternité",
+          "description": "Promouvoir l'unité et le respect mutuel entre tous les participants"
+        },
+        "knowledge": {
+          "title": "Connaissance",
+          "description": "Encourager l'étude approfondie et la compréhension des enseignements"
+        },
+        "spirituality": {
+          "title": "Spiritualité",
+          "description": "Cultiver la croissance spirituelle et la connexion avec le Père"
+        },
+        "diversity": {
+          "title": "Diversité",
+          "description": "Valoriser et respecter les différentes cultures et perspectives"
+        }
+      }
+    },
+    "features": {
+      "title": "Points Forts de l'Événement",
+      "list": {
+        "lectures": {
+          "title": "Conférences Inspirantes",
+          "description": "Présentations par des conférenciers renommés du mouvement Urantia"
+        },
+        "workshops": {
+          "title": "Ateliers Pratiques",
+          "description": "Activités interactives pour approfondir les connaissances"
+        },
+        "study_groups": {
+          "title": "Groupes d'Étude",
+          "description": "Moments de partage et de discussion en petits groupes"
+        },
+        "cultural": {
+          "title": "Programme Culturel",
+          "description": "Activités artistiques et culturelles pour l'intégration"
+        }
+      }
+    },
+    "location": {
+      "title": "Lieu de l'Événement",
+      "description": "L'événement se tiendra à Guarulhos, São Paulo, Brésil, dans un lieu spécialement choisi pour offrir confort et facilité d'accès à tous les participants.",
+      "features": {
+        "access": "Accès facile à l'aéroport international",
+        "structure": "Excellente infrastructure pour les événements",
+        "accommodation": "Différentes options d'hébergement",
+        "nature": "Contact avec la nature"
+      }
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "description": "L'événement est organisé par une équipe dévouée de bénévoles et de professionnels engagés dans la réussite du congrès."
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "description": "Nous sommes disponibles pour répondre à vos questions et fournir plus d'informations sur l'événement.",
+      "email": "contact@urantia.org",
+      "phone": "+55 11 99999-9999"
+    }
+  }
+}
